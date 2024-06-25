@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+}
+.baslik{
+    color: chocolate;
+    margin: 0;
+}
+
+#par1{
+    background-color: aqua;
+    /* margin: 0;
+    margin: 20px; */
+    width: 400px;
+    margin: auto;
+}
+
+#par2{
+    background-color: chartreuse;
+    margin: 0;
+}
+
+a{
+    background-color: red;
+    margin: auto;
+    width: 50px;
+    display: block;
+}

@@ -1,0 +1,33 @@
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+#list{
+    border: 3px solid brown;
+    list-style-type: none;
+    background-color: bisque;
+}
+
+li{
+    background-color: fuchsia;
+    margin: 5px;
+}
+
+.abc{
+    background-color: aquamarine;
+}
+
+span{
+    color: red;
+}
+
+.divi{
+    background-color: coral;
+}
+
+#hoş{
+    font-size: 20px;
+    color: blue;
+}
